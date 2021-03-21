@@ -1,12 +1,6 @@
 Hello Git World
 
-
 A Repository to Demonstrate Git
 
-Adding a line of text to demonstrate pulling changes from the remote repository.
+Deleted lines below this.
 
-<<<<<<< HEAD
-Adding another line of text to demonstrate pushing changes again.
-=======
-adding another line.
->>>>>>> 03d1fc6dd32d0780d45a26814b18ee07bbb3928e
